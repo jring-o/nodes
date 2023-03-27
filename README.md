@@ -7,7 +7,7 @@ Brought to you by [DeSci Labs](https://desci.com) and the DeSci OSS community.
 
 ## What is DeSci Nodes?
 
-Nodes is a tool for creating research objects - a type of verifiable scientific publication that combine manuscripts, code, data and more into coherent unit of knowledge. 
+Nodes is a tool for creating research objects - a type of verifiable scientific publication that combine manuscripts, code, data and more into a coherent unit of knowledge. 
 
 Nodes are published on a decentralized (“Open State”) repository that provides open content resolution, storage, provenance, data cataloguing, secure PIDs, and compute capabilities.
 
