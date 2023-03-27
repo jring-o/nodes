@@ -39,7 +39,7 @@ The simplest ways to get involved are to:
 
 DeSci Nodes is developed, maintained, and supported by DeSci Labs. Contributions and PRs are reviewed and approved by the DeSci Labs team. We are actively looking for contributors and projects to support, so get involved!
 
-We would like to open up our task management software, let us know if interested in early access
+We would like to open up our task management software, let us know if interested in early access.
 
 ---
 
