@@ -32,8 +32,8 @@ We are actively building out resources for open source contributors. Check back 
 
 The simplest ways to get involved are to:
 - Make a PR, issue, or hit us up on [Discord](https://discord.gg/BeJ4dxXdaJ)
-- Submit a bug as issue
-- Submit a feature request as issue
+- Submit a bug as an issue
+- Submit a feature request as an issue
 - Write and polish documentation
 - Translate
 
