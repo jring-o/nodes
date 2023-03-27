@@ -7,13 +7,9 @@ Brought to you by [DeSci Labs](https://desci.com) and the DeSci OSS community.
 
 ## What is DeSci Nodes?
 
-DeSci Nodes is a credibly neutral and content-addressed library for interoperable research outputs that requires minimal maintenance or dependencies on intermediaries.
+Nodes is a decentralized system for creating research objects - a type of verifiable scientific publication that combine manuscripts, code, data and more into coherent unit of knowledge. 
 
-It is designed as a layered, extensible, and radically open architecture to preserve, access, and verify new knowledge.
-
-Nodes is a next-generation open-science solution for researches who want to publish and manage manuscripts, data, code, and all other artefacts of research. Our goal is to make it simple and rewarding for scientists to create openly accessible, interoperable and compute-enabled research objects. 
-
-A research object is a mechanism to associate related resources about a scientific investigation, such as a PDF, code, and data, so that they can be shared using a single identifier.
+Nodes are published on a decentralized (“Open State”) repository that provides open content resolution, storage, provenance, data cataloguing, secure PIDs, and compute capabilities.
 
 These resources will help you if you want to learn more (or join us on [Discord](https://discord.gg/BeJ4dxXdaJ)):<br>
 [Beta announcement post](https://descilabs.substack.com/p/574f74ae-7c4c-4016-9c50-20093d654698)<br>
@@ -22,7 +18,7 @@ These resources will help you if you want to learn more (or join us on [Discord]
 
 ## Where to find the community
 
-The best place to find the community is on the DeSci Labs Discord server! There you will find contributors working on various projects, the DeSci Labs team, scientists and researchers, Node Stewards, and other open-science enthusiasts. Come ask questions, test your ideas and projects, and get involved with the events we host every week!
+The best place to find the community is on the DeSci Labs Discord server. There you will find contributors working on various projects, the DeSci Labs team, scientists and researchers, Node Stewards, and other open-science enthusiasts. Come ask questions, test your ideas and projects, and get involved with the events we host every week!
 
 [Discord](https://discord.gg/BeJ4dxXdaJ)<br>
 [Community Google Calendar](https://calendar.google.com/calendar/u/2?cid=Y181MWUxMDI2ZTA4Zjg4N2IzNDQ1ZDE0ODk2N2M4ZGE3NWY4OWM2ZmViYTNlZjAxZWZhZTZiZjRhOWEzMGE1MmJkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
